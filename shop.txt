@@ -1,0 +1,1 @@
+1,1,nrpg.database.windows.net,NRPG,nrpg,2WSXwsx3EDCedc,{ODBC Driver 13 for SQL Server},http://freegeoip.net/json
